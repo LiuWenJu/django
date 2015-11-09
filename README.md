@@ -1,2 +1,2 @@
-These are all my projects when I'm learn Django!
+These are all my projects when I'm learning Django!
 
